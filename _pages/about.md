@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Boyuan Li's Homepage"
+title: "Jeong Nam's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! I am currently a PhD student at the Software Security Lab of Nankai University, under the supervision of Associate Professor [Lingling Fan](https://lingling-fan.github.io/). My research interests include mobile testing, open-source governance, and supply chain security. Prior to this, I graduated in 2023 with a bachelor's degree from the College of Computer Science and Technology at Jilin University.
+Hello, I am Jeong Nam from the Chinese Department of Dongduk University, South Korea.
 
 ***
 <!--
